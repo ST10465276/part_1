@@ -7,3 +7,6 @@ The planning for this system is divided into three parts:
 -Entity Relationship Diagram(ERD)
 -API Endpoint Plan
 -SQL Database query
+
+#YouTube Link
+https://www.youtube.com/watch?v=_VjFfUsYEt4
