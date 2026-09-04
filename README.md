@@ -10,3 +10,6 @@ The planning for this system is divided into three parts:
 
 #YouTube Link
 https://www.youtube.com/watch?v=_VjFfUsYEt4
+
+#CI/CD Pipeline Screenshot
+<img width="1917" height="1077" alt="CI_CD_PIPELINE" src="https://github.com/user-attachments/assets/95d7cb42-7328-4186-9de8-834df38b109c" />
